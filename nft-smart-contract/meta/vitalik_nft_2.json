@@ -1,0 +1,15 @@
+{
+  "name": "Falmin' hot Vitalik",
+  "description": "Reports suggests that eating flamin' hot Vitalik cheetos can  synchronize your bowel moments.",
+  "image": "https://ipfs.io/ipfs/QmcRq95wbUzw1HxyniMUv1R8HPSdfxUsgAquUjrryYySKF",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "bg",
+      "value": "Flamin' Hot Cheetos."
+    }
+  ]
+}

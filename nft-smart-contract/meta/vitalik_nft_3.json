@@ -1,0 +1,15 @@
+{
+  "name": "Geeky Enstine Vitalik",
+  "description": "Vitalik hates Edison but rest he does is e=mc2.",
+  "image": "https://ipfs.io/ipfs/QmRPMo4sjPUSZ1CrgfpgS6ef2bRUoCaLFkkZFgy6wzQF6t",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "bg",
+      "value": "Its you boi Enstine."
+    }
+  ]
+}
